@@ -1,0 +1,40 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project secrets / data
+.env
+*.csv
+*.xlsx
+*.json
+!examples/*.json
+!.actor/*.json
+output/
+results/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
