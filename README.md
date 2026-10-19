@@ -29,3 +29,15 @@ Current Actor pricing is shown on the [Apify pricing page](https://apify.com/api
 - [Hosted Actor MCP](https://mcp.apify.com?tools=apivault_labs/shopify-store-analyzer) — requires Apify authentication.
 
 The repository's examples are illustrative; compare their inputs with the current Actor schema before running a paid batch.
+
+<!-- apivault-integrations:start -->
+## Hosted Actor and integrations
+
+- [Run Shopify Store Analyzer — No Login, Apps, Emails & Phones on Apify](https://apify.com/apivault_labs/shopify-store-analyzer).
+- [Current pricing and usage terms](https://apify.com/apivault_labs/shopify-store-analyzer/pricing).
+- [n8n community package: n8n-nodes-apivault-shopify-analyzer](https://www.npmjs.com/package/n8n-nodes-apivault-shopify-analyzer).
+- [n8n source and usage](https://github.com/apivault-labs/n8n-nodes-apivault-shopify-analyzer).
+- [n8n source and usage](https://github.com/apivault-labs/apivault-labs/tree/main/community-nodes/n8n-nodes-apivault-shopify-analyzer).
+
+An Apify account and API token are required. Hosted Actor/platform charges apply. npm publication is not n8n verification or confirmation of n8n Cloud availability.
+<!-- apivault-integrations:end -->
