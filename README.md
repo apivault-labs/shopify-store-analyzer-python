@@ -7,10 +7,10 @@ pip install shopify-store-analyzer
 ```
 
 ```python
-from shopify_analyzer import ShopifyAnalyzer
+from shopify_analyzer import ShopifyAnalyzerClient
 
 # Reads APIFY_API_TOKEN from your environment.
-client = ShopifyAnalyzer()
+client = ShopifyAnalyzerClient()
 rows = client.analyze(["https://boody.com.au"], product_sample_size=10)
 ```
 
